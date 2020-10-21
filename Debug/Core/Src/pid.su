@@ -1,0 +1,5 @@
+pid.c:11:6:PIDControl	24	static
+pid.c:26:6:PIDControlAltitude	24	static
+pid.c:42:6:PIDReset	16	static
+pid.c:51:6:PIDInit	48	static
+pid.c:60:6:trustControl	112	static
